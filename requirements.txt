@@ -1,6 +1,4 @@
-line-bot-sdk
 bs4
-flask
 pymongo
 datetime
 pandas
@@ -8,3 +6,17 @@ SnowNLP
 emoji
 pyshorteners
 scipy
+line-bot-sdk==1.8.0
+flask==1.1.1
+gunicorn
+imgurpython==1.1.7
+requests
+numpy
+matplotlib
+beautifulsoup4==4.8.1
+schedule
+pandas_datareader
+html5lib
+yfinance==0.1.50
+twder
+selenium==3.8.0
